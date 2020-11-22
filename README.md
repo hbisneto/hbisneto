@@ -1,10 +1,10 @@
 # Attention
 This repository has been translated into other languages. If you do not speak Portuguese (from Brazil), click on the flag below corresponding to your country of origin: 
 
-- [<font size="10"> <span>&#X1F1FA;&#X1F1F2;</span> - English</font>](http://www.apple.com)
-- [<font size="10"> <span>&#X1F1EB;&#X1F1F7;</span> - French</font>](http://www.apple.com)
-- [<font size="10"> <span>&#X1F1E9;&#X1F1EA;</span> - German</font>](http://www.apple.com)
-- [<font size="10"> <span>&#X1F1EA;&#X1F1F8;</span> - Spanish</font>](http://www.apple.com)
+- [<font size="10"> <span>&#X1F1FA;&#X1F1F2;</span> - English</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/English)
+- [<font size="10"> <span>&#X1F1EB;&#X1F1F7;</span> - French</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/French)
+- [<font size="10"> <span>&#X1F1E9;&#X1F1EA;</span> - German</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/German)
+- [<font size="10"> <span>&#X1F1EA;&#X1F1F8;</span> - Spanish</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/Spanish)
 
 ### Olá, meu nome é Heitor Bardemaker A. Bisneto
 ...E eu sou um programador estudando Análise e Desenvolvimento de Sistemas.
