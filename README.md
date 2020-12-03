@@ -28,4 +28,4 @@ Principais projetos         | Data   	| Disponível em     |
 
 #
 
-<strong> Saiba mais sobre os projetos, [clicando aqui!](http://www.github.com/hbisneto/python/ "Repositório de Projetos")</strong>
+<strong> Saiba mais sobre os projetos, [clicando aqui!](https://github.com/hbisneto?tab=repositories "Repositório de Projetos")</strong>
