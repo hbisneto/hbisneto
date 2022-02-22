@@ -1,10 +1,10 @@
 # Attention
 This repository has been translated into other languages. If you do not speak Portuguese (from Brazil), click on the flag below corresponding to your country of origin: 
 
-- [<font size="10"> <span>&#X1F1FA;&#X1F1F2;</span> - English</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/English)
-- [<font size="10"> <span>&#X1F1EB;&#X1F1F7;</span> - French</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/French)
-- [<font size="10"> <span>&#X1F1E9;&#X1F1EA;</span> - German</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/German)
-- [<font size="10"> <span>&#X1F1EA;&#X1F1F8;</span> - Spanish</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/Spanish)
+[<font size="10"> <span>&#X1F1FA;&#X1F1F2;</span> - English</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/English)
+<br>[<font size="10"> <span>&#X1F1EB;&#X1F1F7;</span> - French</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/French)
+<br>[<font size="10"> <span>&#X1F1E9;&#X1F1EA;</span> - German</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/German)
+<br>[<font size="10"> <span>&#X1F1EA;&#X1F1F8;</span> - Spanish</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/Spanish)
 
 ### Olá, meu nome é Heitor Bardemaker A. Bisneto
 ...E eu sou um programador estudando Análise e Desenvolvimento de Sistemas.
@@ -18,6 +18,7 @@ Abaixo uma lista dos principais projetos que já fiz:
 Principais projetos         | Data   	| Disponível em     |
 --------------------|------------------|-----------------------|
 *LumiaModels*				| 2013 - Hoje		| [<img src="https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png" alt="Download For Windows 8.1 or later." width="100"/> ](https://www.microsoft.com/en-us/p/lumiamodels/9nq4rr6jl66n?activetab=pivot:overviewtab/)|
+*PyBridge*				| 2021 - Hoje		| [<img src="https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png" alt="Download For Windows 8.1 or later." width="100"/> ](https://www.microsoft.com/en-us/p/pybridge/9nxmr586zc0w)|
 *Clientes App*       	| 2018 - Hoje  	| <https://bit.ly/3mKKwQ4> |
 *Installer*			  	| 2018 - Hoje   	| Ainda não disponível...  |
 *MyID*      				| 2018 - Hoje  	| Ainda não disponível...  |
