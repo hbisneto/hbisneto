@@ -9,7 +9,7 @@ This repository has been translated into other languages. If you do not speak Po
 ### Olá, meu nome é Heitor Bardemaker A. Bisneto
 ...E eu sou um programador estudando Análise e Desenvolvimento de Sistemas.
 
-[<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hbarbisneto@gmail.com" alt="Clique aqui para enviar um e-mail."/> ](mailto:hbarbisneto@gmail.com)[<img src="https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/hbisneto/" alt="Acesse meu Instagram"/> ](https://www.instagram.com/hbisneto/)[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitor-bardemaker-a-bisneto-906739105" alt="Acesse meu LinkedIn"/> ](https://www.linkedin.com/in/heitor-bardemaker-a-bisneto-906739105/)
+[<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hbarbisneto@gmail.com" alt="Clique aqui para enviar um e-mail."/> ](mailto:hbarbisneto@gmail.com)[<img src="https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/BisnetoDev/" alt="Acesse meu Instagram"/> ](https://www.instagram.com/hbisneto/)[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitor-bardemaker-a-bisneto-906739105" alt="Acesse meu LinkedIn"/> ](https://www.linkedin.com/in/heitor-bardemaker-a-bisneto-906739105/)
 
 ### Principais Projetos
 
